@@ -44,7 +44,7 @@ const Visits = () => {
     >
       <p className='petit-formal-script-regular flex justify-center sm:pl-5 text-[55px] sm:text-[60px]'>Tasdiq</p>
       <p className='font-serif text-center text-[22px] sm:text-2xl flex justify-center pb-[40px]  sm:pb-20'>
-        Iltimos, 2025 yil 29 iyunga qadar ishtirokingizni tasdiqlang
+        Iltimos, 2025 yil 21 iyunga qadar ishtirokingizni tasdiqlang
       </p>
 
       <input
@@ -116,7 +116,7 @@ const Visits = () => {
         </button>
 
 
-        <p className='font-serif text-center pr-12 sm:pr-0 pb-10 sm:pb-0 pt-10 sm:pt-12 sm:text-[22px]'>Agar siz boshqa davlatdan kelsangiz, biz sizni mamnuniyat bilan kutib olamiz va mehmonxona xonasini bron qilishga tayyormiz. Iltimos, bu haqda oldindan quyida ko‘rsatilgan telefon raqamiga <span className='font-sans font-semibold'>[Jasubek: +998979725787]</span> xabar bering.</p>
+        <p className='font-serif text-center pr-12 sm:pr-0 pb-10 sm:pb-0 pt-10 sm:pt-12 sm:text-[22px]'>Agar siz boshqa davlatdan kelsangiz, biz sizni mamnuniyat bilan kutib olamiz va mehmonxona xonasini bron qilishga tayyormiz. Iltimos, bu haqda oldindan quyida ko‘rsatilgan telefon raqamiga <span className='font-sans font-semibold'>[Shodilbek: +998934681014]</span> xabar bering.</p>
       </div>
     </motion.section>
   );

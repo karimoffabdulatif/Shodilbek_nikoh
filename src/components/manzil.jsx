@@ -1,5 +1,5 @@
 import React from 'react';
-import Gl3 from '../assets/toyx.jpg';
+import Gl3 from '../assets/kr.jpg';
 import { motion } from 'framer-motion';
 
 const Manzil = () => {
@@ -35,15 +35,15 @@ const Manzil = () => {
           </p>
 
           <p className='font-serif text-[18px] sm:pl-20 sm:pb-3 hidden sm:block sm:text-2xl font-semibold'>
-            Shohsaroy tantanalar saroyi
+            Qirg'iziya tantanlar saroyi
           </p>
 
           <p className='font-serif text-[18px] text-center sm:text-[20px] hidden sm:block sm:w-[520px] mx-auto sm:mx-0'>
-            Andijon, Qo'rg'ontepa tumani, Mustaqillik ko'chasi 72-uy. Mo'ljal: Qo'rg'ontepa Istirohat bo'g'i ro'parasi
+            Andijon, Qo'rg'ontepa tumani, Mustaqillik ko'chasi. Mo'ljal: Qo‘rg‘ontepa tumani hokimligi binosining qarshisida joylashgan tantanali maskan.
           </p>
 
           <a
-            href="https://yandex.uz/maps/org/102213153941/?ll=72.764301%2C40.726133&z=15.31"
+            href="https://yandex.uz/maps/190173/kurgantepa/?ll=72.757280%2C40.730215&mode=poi&poi%5Bpoint%5D=72.757588%2C40.730471&poi%5Buri%5D=ymapsbm1%3A%2F%2Forg%3Foid%3D208002194715&tilt=0.8726646259971648&z=19.11"
             target="_blank"
             rel="noopener noreferrer"
           >
@@ -60,12 +60,12 @@ const Manzil = () => {
           viewport={{ once: true, amount: 0.5 }}
           transition={{ duration: 2, ease: "easeOut" }}
         >
-          <div className="absolute inset-0 bg-gray-200 rounded-3xl -rotate-[13deg] sm:-rotate-[7deg] scale-105 -z-10"></div>
+          <div className="absolute inset-0 border bg-gray-200 rounded-3xl -rotate-[13deg] sm:-rotate-[7deg] scale-105 -z-10"></div>
 
           <img
             src={Gl3}
             alt="img"
-            className="w-full h-full object-cover rounded-2xl"
+            className="w-full h-full border object-cover rounded-2xl"
           />
         </motion.div>
       </section>

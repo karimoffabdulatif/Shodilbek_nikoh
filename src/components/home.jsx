@@ -1,7 +1,7 @@
 import React, { useState, useRef } from 'react';
 import { motion } from 'framer-motion';
 import { CgPlayButtonO, CgPlayPauseO } from 'react-icons/cg';
-import Gl from '../assets/gl7.jpg';
+import Gl from '../assets/gl-1.jpg';
 
 const Home = () => {
   const audioRef = useRef(null);
@@ -38,7 +38,7 @@ const Home = () => {
           transition={{ duration: 0.8, delay: 0.4 }}
           className="petit-formal-script-regular text-[25px] sm:text-[50px] flex justify-center pt-2 sm:pt-4 text-white"
         >
-          Jasurbek & Muxlisaxon
+          Shodilbek & ...
         </motion.h1>
 
         <motion.p
@@ -47,7 +47,7 @@ const Home = () => {
           transition={{ duration: 0.8, delay: 0.6 }}
           className="text-white font-serif text-[22px] sm:text-2xl flex justify-center"
         >
-          Iyun 29, 2025
+          Iyun 21, 2025
         </motion.p>
 
           <motion.p
