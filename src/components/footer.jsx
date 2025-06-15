@@ -42,14 +42,6 @@ const Footer = () => {
         >
           <InstagramIcon className="text-white" fontSize="large" />
         </a>
-
-        <button
-          onClick={() => navigate("/page")}
-          className="p-2 rounded-full bg-transparent transition ease-in-out duration-300 transform hover:scale-125 cursor-pointer"
-          aria-label="Tashrif buyuruvchilar ro'yxati sahifasiga o'tish"
-        >
-          <FingerprintIcon className="text-white opacity-20" fontSize="large" />
-        </button>
       </div>
     </section>
   );
