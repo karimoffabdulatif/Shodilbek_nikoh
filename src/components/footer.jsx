@@ -3,7 +3,6 @@ import { useNavigate } from "react-router-dom";
 import TelegramIcon from "@mui/icons-material/Telegram";
 import LanguageIcon from "@mui/icons-material/Language";
 import InstagramIcon from "@mui/icons-material/Instagram";
-import FingerprintIcon from "@mui/icons-material/Fingerprint";
 
 const Footer = () => {
   const navigate = useNavigate();
