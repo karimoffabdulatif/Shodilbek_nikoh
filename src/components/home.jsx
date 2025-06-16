@@ -38,7 +38,7 @@ const Home = () => {
           transition={{ duration: 0.8, delay: 0.4 }}
           className="petit-formal-script-regular text-[25px] sm:text-[50px] flex justify-center pt-2 sm:pt-4 text-white"
         >
-          Shodilbek & ...
+          Shodilbek & Laylo
         </motion.h1>
 
         <motion.p
