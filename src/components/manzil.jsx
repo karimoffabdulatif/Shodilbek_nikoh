@@ -15,7 +15,6 @@ const Manzil = () => {
         <p className='petit-formal-script-regular text-[50px] text-center pt-[450px] pb-4 sm:hidden'>
           Manzil
         </p>
-<<<<<<< HEAD
         <p className='font-serif text-[18px] text-center sm:pl-20 sm:pb-3 sm:text-2xl font-semibold sm:hidden'>
           Qirg'iziya tantanlar saroyi
         </p>
@@ -23,10 +22,6 @@ const Manzil = () => {
           Mo'ljal: Qo‘rg‘ontepa tumani hokimligi binosining qarshisida joylashgan tantanali maskan.        </p>
       </motion.div>
       <section className='mx-auto flex flex-col-reverse sm:flex-row sm:flex justify-center items-center sm:gap-[130px]  sm:pt-26 sm:pb-24'>
-=======
-        </motion.div>
-            <section className='mx-auto flex flex-col-reverse sm:flex-row sm:flex justify-center items-center sm:gap-[130px]  sm:pt-26 sm:pb-24'>
->>>>>>> 6982a59fdd503f78b8b2cd447e5a70d21db7f9ab
         <motion.div
           className='text-center sm:text-left'
           initial={{ y: 50, opacity: 0 }}
