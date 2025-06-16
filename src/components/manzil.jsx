@@ -22,7 +22,7 @@ const Manzil = () => {
           Andijon, Qo'rg'ontepa tumani, Mustaqillik ko'chasi 72-uy. Mo'ljal: Qo'rg'ontepa Istirohat bo'g'i ro'parasi
         </p>
         </motion.div>
-      <section className='mx-auto flex flex-col-reverse sm:flex-row sm:flex justify-center items-center sm:gap-[130px]  sm:pt-26 sm:pb-24'>
+            <section className='mx-auto flex flex-col-reverse sm:flex-row sm:flex justify-center items-center sm:gap-[130px]  sm:pt-26 sm:pb-24'>
         <motion.div
           className='text-center sm:text-left'
           initial={{ y: 50, opacity: 0 }}
