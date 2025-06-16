@@ -108,7 +108,7 @@ const Visits = () => {
         <div className="flex justify-center sm:justify-start">
           <button
             type="submit"
-          className="bg-black text-white justify-center ml-20 sm:ml-[550px] flex items-center text-[16px] sm:text-[18px] px-10 py-2 rounded-full border-2 border-black hover:bg-white hover:text-black transition-all duration-300 shadow-md hover:shadow-lg sm:mt-6 animate-pulse"
+          className="bg-black text-white justify-center mr-12 sm:ml-[550px] flex items-center text-[16px] sm:text-[18px] px-10 py-2 rounded-full border-2 border-black hover:bg-white hover:text-black transition-all duration-300 shadow-md hover:shadow-lg sm:mt-6 animate-pulse"
           >
             Jo'natish
           </button>

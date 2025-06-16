@@ -38,7 +38,11 @@ const Home = () => {
           transition={{ duration: 0.8, delay: 0.4 }}
           className="petit-formal-script-regular text-[25px] sm:text-[50px] flex justify-center pt-2 sm:pt-4 text-white"
         >
+<<<<<<< HEAD
           Shodilbek & Laylo
+=======
+          Shodilbek & Gulziyo
+>>>>>>> 6982a59fdd503f78b8b2cd447e5a70d21db7f9ab
         </motion.h1>
 
         <motion.p
